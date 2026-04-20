@@ -1,0 +1,6 @@
+Borough,total_stations,accessible_stations,accessibility_score,accessibility_percent,total_assets,ada_compliant_assets,ada_asset_percent
+Bronx,70,21,0.3,30.0,70,52,74.3
+Brooklyn,169,47,0.278,27.8,150,95,63.3
+Manhattan,153,72,0.471,47.1,407,187,45.9
+Queens,83,29,0.349,34.9,118,68,57.6
+Staten Island,21,6,0.286,28.6,3,3,100.0
