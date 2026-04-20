@@ -58,7 +58,7 @@ To measure accessibility across NYC transit boroughs and identify gaps between A
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](images/dashboard-preview.png.png)
 ---
 
 ## Project Structure
